@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm asponseti</h1>
     <h3 align="center">A passionate web front-end from Spain. I like to learn about all kinds of languages, although now I am more focused on cybersecurity.
-        You can fin me out in my Linkedin.
+        You can find me out in my Linkedin.
     </h3>
 </div>
 <div align="center">
