@@ -49,7 +49,3 @@
 ## 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asponseti&theme=blue-green&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asponseti&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asponseti&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
